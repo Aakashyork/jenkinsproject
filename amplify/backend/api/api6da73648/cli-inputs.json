@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "jenkinsamplify3dd320ea",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
